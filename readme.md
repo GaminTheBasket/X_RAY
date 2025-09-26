@@ -45,7 +45,7 @@ Dataset
 
 Do dataset X-ray có dung lượng lớn, không được đính kèm repo.
 Bạn có thể tải về từ Kaggle:
-Chest X-ray Pneumonia Dataset
+[Chest X-ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 Cấu trúc thư mục mong đợi:
 chest_xray/
@@ -58,3 +58,4 @@ chest_xray/
     └── test/
         ├── NORMAL/
         └── PNEUMONIA/
+
